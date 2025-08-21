@@ -1,0 +1,5 @@
+{
+  "name": "Finnish Citizenship Residence Tracker",
+  "description": "A personalized dashboard to track your residence period in Finland for citizenship application purposes. Enter your travel dates to calculate your qualifying residence time and earliest application date based on Finnish law.",
+  "requestFramePermissions": []
+}
